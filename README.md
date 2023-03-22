@@ -5,6 +5,7 @@ The data for this reporting is contains hotel's revenue information starting fro
 The data was taken from kaggle link: https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
 # Overall
 This project will give an idea of how much the hotel have earned (a year-wise comparison of revenue), considering the discounts given to the customers from different market-segments.
+---------------------
 Note: There was no data after September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
 
