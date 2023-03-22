@@ -9,7 +9,8 @@ This project will give an idea of how much the hotel have earned (a year-wise co
 Note: There is no data after September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
 # Project Pipeline
-<img width="451" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/226785382-2021e1fa-9e54-4af4-9228-506b26d03d56.png">
+<img width="449" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/226786026-b7b9f315-545e-402b-b5ba-e91ee9e8813e.png">
+
 
 
 
