@@ -2,7 +2,7 @@
 This project will combine SQL and Python in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
 # Work Environment:
 * Tool: Jupyter notebook
-* Programming languages: SQL and Python(Pandas, Numpy)
+* Programming languages: SQL and Python (Pandas, Numpy)
 * Visualization: Power BI, Matplotlib and Seaborn
 
 # Data
