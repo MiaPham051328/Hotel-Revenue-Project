@@ -1,13 +1,17 @@
 # Hotel-Revenue-Project
-This project will give an idea of how much the hotel have earned (a year-wise comparison of revenue), considering the discounts given to the customers from different market-segments. This project will be done in order to analyze hotel's revenue and customer data - outline different strategies and business planning for the future.
+This project will combine SQL and Python in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights I found are presented as visual data using Power BI for easier understanding and persuasion.
 # Data
-The data for this reporting is contains hotel's revenue information starting from January 2018 to September 2020.
+The data for this reporting is contains hotel's revenue information starting from January 2018 to August 2020 was taken from kaggle link: https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
+. Data 1: 2018
+. Data 2: 2019
+. Data 3: 2020
+. Data 4: market_segment
+. Data 5: meal_cost
 
-Country Codes List:
+Data to support the analysis - Country Codes List:
 https://www.nationsonline.org/oneworld/country_code_list.htm
-The data was taken from kaggle link: https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
 
-Note: There is no data after September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
+Note: There is no data from September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
 # Project Pipeline
 <img width="449" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/226786026-b7b9f315-545e-402b-b5ba-e91ee9e8813e.png">
