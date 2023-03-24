@@ -18,7 +18,7 @@ https://www.map-in-excel.com/tutorials/iso3-country-codes/
 
 Note: There is no data from September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
-#Project Pipeline
+# Project Pipeline
 <img width="443" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/227412148-31e43e37-35bc-45d7-8447-cea3b428d6b6.png">
  
 
