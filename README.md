@@ -18,8 +18,10 @@ https://www.map-in-excel.com/tutorials/iso3-country-codes/
 
 Note: There is no data from September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
-# Project Pipeline
-<img width="449" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/226786026-b7b9f315-545e-402b-b5ba-e91ee9e8813e.png">
+#Project Pipeline
+<img width="443" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/227412148-31e43e37-35bc-45d7-8447-cea3b428d6b6.png">
+ 
+
 
 # Requirements: answer 3 questions below:
 1) What is the hotel revenue growth per year?
