@@ -1,5 +1,5 @@
 # Hotel-Revenue-Project
-This project will combine SQL and Python in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
+This project will combine SQL, Python, Pandas and Numpy in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
 # Data
 The data for this reporting is contains hotel's revenue information starting from January 2018 to August 2020 was taken from kaggle link: https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
 * Data 1: 2018
