@@ -31,4 +31,6 @@ Key questions:
 # The Power BI Dashboard
 
 # References
+E-maps.(n.d.). ISO3 countrycodes. In _ISO3 country code table for use in Excel E-Maps_.https://www.map-in-excel.com/tutorials/iso3-country-codes/     
 
+Krishnadas, G.(2022). _Hotel Revenue._[Data set]. Kaggle. https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
