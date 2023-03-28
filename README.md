@@ -5,15 +5,15 @@ This project will combine SQL and Python in connecting, cleaning and analyzing d
 In this project, I explored the business in the hospitality industry. The objective of this analysis is to examine the trend of hotel revenue growth per year and explore the possible relationship between guests and their personal cars to identify any patterns or trends that can be useful in optimizing hotel revenue. The expected outcomes include insights into factors driving hotel revenue growth, identifying areas for improvement, and developing targeted promotions or incentives to optimize revenue growth and improve profitability.
 
 # Data
-The data for this reporting is contains hotel's revenue information starting from January 2018 to August 2020 was taken from kaggle link: [Hotel Revenue] (https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue).
+The data for this reporting is contains hotel's revenue information starting from January 2018 to August 2020 was taken from kaggle link: 
+[Hotel Revenue](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue).
 * Data 1: 2018
 * Data 2: 2019
 * Data 3: 2020
 * Data 4: market_segment
 * Data 5: meal_cost
 
-Data to support the analysis - ISO3 country codes:
-https://www.map-in-excel.com/tutorials/iso3-country-codes/
+Data to support the analysis - [ISO3 country codes](https://www.map-in-excel.com/tutorials/iso3-country-codes/).
 
 Note: There is no data from September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
