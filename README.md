@@ -31,6 +31,6 @@ Key questions:
 # The Power BI Dashboard
 
 # References
-ISO 3166-1 alpha-3.(2023, February 01). In _Wikipedia_.https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3  
+ISO 3166-1 alpha-3.(2023, February 01). In _Wikipedia_. https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3  
 
 Krishnadas, G.(2022). _Hotel Revenue._[Data set]. Kaggle. https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
