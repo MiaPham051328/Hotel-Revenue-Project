@@ -8,7 +8,7 @@ In this project, I explored the business in the hospitality industry. The object
 The data for this reporting is contains contains booking information for a city hotel and a resort hotel starting from January 2018 to August 2020 was taken from kaggle link: 
 [Hotel Revenue](https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue).
 
-Data to support the analysis - [ISO3 country codes](https://www.map-in-excel.com/tutorials/iso3-country-codes/).
+Data to support the analysis - [ISO 3166-1 alpha-3 country codes][(https://www.map-in-excel.com/tutorials/iso3-country-codes/](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3).
 
 Note: There is no data from September 2020 which may be because of the COVID 19 pandemic regulations imposed on the country in which the hotels are. 
 
