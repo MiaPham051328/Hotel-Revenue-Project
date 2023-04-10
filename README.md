@@ -29,7 +29,7 @@ Key questions:
 <img width="443" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/227412148-31e43e37-35bc-45d7-8447-cea3b428d6b6.png">
 
 # First draft video
-Click [here](https://clipchamp.com/watch/dAAgTJLS2bs](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763) to watch the video.
+Click [here]([https://clipchamp.com/watch/dAAgTJLS2bs](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763)) to watch the video.
 
 # The Power BI Dashboard
 
