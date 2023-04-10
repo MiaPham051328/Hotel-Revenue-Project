@@ -28,6 +28,9 @@ Key questions:
 # Project Pipeline
 <img width="443" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/227412148-31e43e37-35bc-45d7-8447-cea3b428d6b6.png">
 
+# First draft video
+Click [here](https://clipchamp.com/watch/dAAgTJLS2bs) to watch the video.
+
 # The Power BI Dashboard
 
 # References
