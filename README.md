@@ -1,7 +1,7 @@
 # Introduction
 This project will combine SQL and Python in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
 
-![hotel](https://user-images.githubusercontent.com/122539964/231317275-a8bff632-da32-4bfe-b968-e01abbe5fe6f.jpg)
+                       ![hotel](https://user-images.githubusercontent.com/122539964/231317275-a8bff632-da32-4bfe-b968-e01abbe5fe6f.jpg)
 
 # Objective
 In this project, I explored the business in the hospitality industry. The objective of this analysis is to examine the trend of hotel revenue growth per year and explore the possible relationship between guests and their personal cars to identify any patterns or trends that can be useful in optimizing hotel revenue. The expected outcomes include insights into factors driving hotel revenue growth, identifying areas for improvement, and developing targeted promotions or incentives to optimize revenue growth and improve profitability.
