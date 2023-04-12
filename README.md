@@ -26,7 +26,7 @@ Key questions:
 * Visualization: Power BI, Matplotlib and Seaborn
 
 # Project Pipeline
-![Alt text](Desktop/Pipeline.png)
+![Alt text](C:/Users/biauser/OneDrive - Nova Scotia Community College/Desktop/Pipeline.png)
 
 # First draft video
 Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763)) to watch the video.
