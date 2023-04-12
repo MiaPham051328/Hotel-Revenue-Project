@@ -36,6 +36,8 @@ Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.
 # The Power BI Dashboard
 
 # References
+Prabhash, B. (2021, January 14). _Tips to optimize ADR and occupancy rates at your independent hotel._ Hotelogix. https://www.hotelogix.com/blog/optimize-adr-and-occupancy-rates-for-your-hotel/
+
 ISO 3166-1 alpha-3.(2023, February 01). In _Wikipedia_. https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3  
 
 Krishnadas, G.(2022). _Hotel Revenue._[Data set]. Kaggle. https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue
