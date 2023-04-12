@@ -26,7 +26,7 @@ Key questions:
 * Visualization: Power BI, Matplotlib and Seaborn
 
 # Project Pipeline
-![Alt text](Pipeline.png =400*300)
+![Alt text](Pipeline.png, size=400*300)
 
 # First draft video
 Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763)) to watch the video.
