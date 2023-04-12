@@ -161,6 +161,18 @@ SELECT COUNT(*) as 'Total', ROUND(SUM((stays_in_week_nights+stays_in_weekend_nig
 FROM dbo.hotel_revenue
 ; -- 37,285,675
 
+-- Total discount
+SELECT market_segment, ROUND(SUM((stays_in_week_nights+stays_in_weekend_nights)*adr*discount),2) as 'Revenue'
+FROM dbo.hotel_revenue
+GROUP BY market_segment
+; -- 12,307,545.3
+
+-- Reveunue by market segment
+SELECT market_segment, ROUND(SUM((stays_in_week_nights+stays_in_weekend_nights)*adr*(1-discount)),2) as 'Revenue'
+FROM dbo.hotel_revenue
+GROUP BY market_segment
+; -- 12,307,545.3
+
 -- Total guests
 SELECT COUNT(*) as 'Total',SUM(adults+children+babies) as 'Total Guest'
 FROM dbo.hotel_revenue
@@ -184,6 +196,7 @@ SELECT hotel
 	  ,country_name
 	  ,ROUND(SUM(cost),2) as 'revenue from meal'
 	  ,ROUND(SUM((stays_in_week_nights+stays_in_weekend_nights)*adr*(1-discount)),2) as 'Revenue by Year'
+	  ,ROUND(SUM((stays_in_week_nights+stays_in_weekend_nights)*adr*discount),2) as'Total Discount'
 	  ,SUM(adults+children+babies) as 'Total Guest'
 	  ,SUM(required_car_parking_spaces) as'Total RCPS'
 FROM dbo.hotel_revenue
@@ -197,3 +210,16 @@ GROUP BY hotel
 	    ,country
 	    ,country_name
 
+-- Total revenue of market segment: Complementary
+SELECT market_segment, SUM ((stays_in_week_nights+stays_in_weekend_nights)*adr)
+FROM dbo.hotel_revenue
+WHERE market_segment = 'Complementary'
+GROUP BY market_segment
+; -- 6,065.51
+
+-- Total discount of market segment: Complementary
+SELECT market_segment, SUM ((stays_in_week_nights+stays_in_weekend_nights)*adr*discount)
+FROM dbo.hotel_revenue
+WHERE market_segment = 'Complementary'
+GROUP BY market_segment
+; -- 6,065.51
