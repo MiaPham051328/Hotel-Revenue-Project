@@ -35,6 +35,7 @@ Up to the time of submitting this assignment, I have done the following things:
 * Clean data
 * Aggregate information
 * Visualize data
+
 However, in the recording I only talk about data processing with SQL and Python.
 Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763)) to watch the video.
 
