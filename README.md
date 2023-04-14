@@ -41,6 +41,8 @@ Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.
 
 # The Power BI Dashboard
 
+# Summary
+
 # References
 Prabhash, B. (2021, January 14). _Tips to optimize ADR and occupancy rates at your independent hotel._ Hotelogix. https://www.hotelogix.com/blog/optimize-adr-and-occupancy-rates-for-your-hotel/
 
