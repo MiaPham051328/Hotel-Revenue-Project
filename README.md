@@ -25,7 +25,7 @@ Key questions:
 # Work Environment:
 * Tool: [Jupyter notebook](https://jupyter.org/)
 * Programming languages: [SQL](https://www.w3schools.com/sql/sql_intro.asp) and Python ([pandas](https://pypi.org/project/pandas/), [NumPy](https://numpy.org/))
-* Visualization: [Power BI](https://powerbi.microsoft.com/en-ca/), [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org)
+* Visualization: [Power BI](https://powerbi.microsoft.com/en-ca/), [Matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org)
 
 # Project Pipeline
 <img width="433" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/231315002-b1f994c5-33d7-4524-992b-d074663e53a0.png">
