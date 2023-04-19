@@ -41,7 +41,7 @@ Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.
 
 # The Power BI Dashboard
 
-Click [Power BI] to watch the visualization video.
+Click [Power BI](https://clipchamp.com/watch/mhFtWoGVPt6) to watch the visualization video.
 
 ![Hotel Revenue Power BI](https://user-images.githubusercontent.com/122539964/232811624-38b3a2ad-d983-4a86-9094-e15e700cfb38.png)
 
