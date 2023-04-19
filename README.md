@@ -1,5 +1,5 @@
 # Introduction
-This project will combine SQL and Python in connecting, cleaning and analyzing data to give an idea of how much the hotel have earned (a year-wise comparison of revenue), consider the discounts given to the customers from different market-segments and understand customer behavior in hotel booking and their relationship with hotel cancellation rate. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
+This project will combine SQL and Python in connecting, cleaning and analyzing the data to get an idea of how much money the hotel has made (compare revenue by year), consider discounts for customers from different market segments and understand hotel booking trends. The results of the insights are presented as visual data using Power BI for easier understanding and persuasion.
 
 <div align="center"><img src=https://user-images.githubusercontent.com/122539964/231317969-cd822ba4-da81-4193-9b61-8dae6fc13335.jpg></div>
 
