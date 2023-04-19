@@ -48,7 +48,7 @@ Click [Power BI] to watch the visualization video.
 # Summary
 
 Based on the aggregated information from the data set, we can answer 3 questions posed:
-* Revenue can clearly be seen growing from 2018 to 2020. However, there are a few things to keep in mind here as 2018 revenue is for the second half of the year and 2020 revenue is from January to August of the year because Covid-19 has closed the world.
+* Revenue can clearly be seen growing from 2018 to 2020. However, there are a few things to keep in mind here as 2018 revenue was for the second half of the year and 2020 revenue was from January to August of the year because Covid-19 has closed the world.
 * The maximum parking size required could not be determined at this time due to insufficient data to answer this question. However, when looking at the details, the total number of hotel parking spaces did not fluctuate much year by year.
 * One of the biggest trends we can see is that the Revenue (ADR) in the Resort Hotel in July and August every year was more than in the City Hotel. While, revenue of City Hotel beat revenue of Resort Hotel in the remaining 10 months of the year.
 
