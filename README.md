@@ -30,15 +30,6 @@ Key questions:
 # Project Pipeline
 <img width="433" alt="Pipeline" src="https://user-images.githubusercontent.com/122539964/231315002-b1f994c5-33d7-4524-992b-d074663e53a0.png">
 
-# First draft video
-Up to the time of submitting this assignment, I have done the following things:
-* Clean data
-* Aggregate information
-* Visualize data
-
-However, in the recording I only talk about data processing with SQL and Python.
-Click [here](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763](https://clipchamp.com/watch/PPPYXB2mFar?_ga=2.218129817.1805101923.1681075619-885440277.1680792763)) to watch the video.
-
 # The Power BI Dashboard
 
 Click [Power BI](https://clipchamp.com/watch/mhFtWoGVPt6) to watch the visualization video.
